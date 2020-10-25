@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Laser
+  - Death
+  - EnemyDestructible
+  - EnemyIndestructible
+  - ProjectileDestructible
+  - ProjectileIndestructible
+  - ProjectileIntangible
   layers:
   - Default
   - TransparentFX
